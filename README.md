@@ -1,1 +1,1 @@
-# sentiment_model
+# sentiment-model
