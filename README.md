@@ -19,4 +19,4 @@ To run the service please follow the instruction below:
    python app.py
    ```
 3) In the interface window type the text in English and press "Analyze Sentiment"
-4) Yo will get a sentiment score and a sentiment label: POS, NEU or NEG (positive, neutral or negative respectively).
+4) You will get a sentiment score and a sentiment label: POS, NEU or NEG (positive, neutral or negative respectively).
