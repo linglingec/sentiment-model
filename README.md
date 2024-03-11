@@ -16,6 +16,7 @@ To run the service please follow the instruction below:
 2) Having the first terminal window running, open one more window and run the following line to launch the app:
 
    ```commandline
+   cd sentiment-model
    python app.py
    ```
 3) In the interface window type the text in English and press "Analyze Sentiment"
